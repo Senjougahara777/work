@@ -1,0 +1,41 @@
+  .tangerine-regular {
+    font-family: "Tangerine", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .tangerine-bold {
+    font-family: "Tangerine", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+.merriweather-sans {
+  font-family: "Merriweather Sans", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+  
+ #funkletter {
+    font-family: "WindSong", serif;
+    font-weight: 800;
+    font-style:  italic;
+    font-size: xx-large ;
+    word-spacing: 2cap;
+ }
+
+ span {
+    font-family: "Tangerine", serif;
+    font-weight: 900;
+    font-style: normal;  
+    font-style:  italic;
+    font-size: xx-large ;
+       
+ }
+
+
+ p {
+    font-family: "Merriweather Sans", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+ }
